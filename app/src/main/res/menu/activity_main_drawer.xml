@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/maintitle"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="title" />
+        <item
+            android:id="@+id/jsonrelation"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="relation" />
+
+    </group>
+
+
+</menu>
